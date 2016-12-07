@@ -12,5 +12,5 @@ def getPrimes(max_number):
         if isPrime(num1):
             listOfPrimes.append(num1)
 
-name = input ("What is your name: ")
-print ("Hello ", name)
+
+
