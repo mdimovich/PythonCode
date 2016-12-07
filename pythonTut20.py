@@ -1,0 +1,45 @@
+import math
+
+# By putting the asterisk in front of the variable name, you can load in as many arguments as you want
+def sumAll(*args):
+    sum = 0
+
+    for i in args:
+        sum += i
+    return sum
+
+print("Sum: ", sumAll(1, 2, 3, 4, 5))
+
+
+def get_area(shape):
+    shape = shape.lower()
+    if shape == "rectangle":
+        rectangle_area()
+    elif shape == "circle":
+        circle_area()
+    else:
+        print("Please enter rectangle or circle ")
+
+
+def rectangle_area():
+    length = float(input("Enter the length: "))
+    width = float(input("Enter the width: "))
+
+    area = length * width
+    print("The area of the rectangle is: ", area)
+
+
+def circle_area():
+    radius = float(input("Enter the radius: "))
+
+    area = math.pi * (math.pow(radius, 2))
+    print("The area of the circle is: {:.2f}".format(area))
+
+
+def main():
+    shape_type = input("Get area for what shape: ")
+
+    get_area(shape_type)
+
+
+main()
