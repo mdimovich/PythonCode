@@ -24,5 +24,6 @@ def fibonacci(num):
         result = fibonacci(num-1)+fibonacci(num-2)
         return result
 
-for i in range(1, 10):
+amount = int(input("Enter the numer of fibonacci numbers you want: "))
+for i in range(1, amount+1):
     print(fibonacci(i))

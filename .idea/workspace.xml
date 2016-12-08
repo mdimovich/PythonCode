@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b2ac669-4d69-4a93-b40b-ff9190f09082" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut25(Dictionaries and Recursive functs).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut26(DictionaryProblem).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut27 (Recursion).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut30(Inheritance).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut32(MagicMethods).py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/mdimovich.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/mdimovich.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonTut27 (Recursion).py" afterPath="$PROJECT_DIR$/pythonTut27 (Recursion).py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" afterPath="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +26,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pythonTut27 (Recursion).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut27 (Recursion).py">
+      <file leaf-file-name="pythonTut29(Object Oriented Programming).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pythonTut28(Reading and Writing Files).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py">
+      <file leaf-file-name="pythonTut30(Inheritance).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonTut30(Inheritance).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+              <folding>
+                <element signature="e#996#1089#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pythonTut32(MagicMethods).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonTut32(MagicMethods).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +101,10 @@
         <option value="$PROJECT_DIR$/pythonTut27.py" />
         <option value="$PROJECT_DIR$/pythonTut27 (Recursion).py" />
         <option value="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" />
+        <option value="$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py" />
+        <option value="$PROJECT_DIR$/pythonTut30(Object Oriented Problem).py" />
+        <option value="$PROJECT_DIR$/pythonTut30(Inheritance).py" />
+        <option value="$PROJECT_DIR$/pythonTut32(MagicMethods).py" />
       </list>
     </option>
   </component>
@@ -95,6 +113,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,15 +180,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code\PythonCode\Old Tutorial Code" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pythonTut27 (Recursion)">
-    <configuration default="false" name="pythonTut23(ListFunctions)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pythonTut32(MagicMethods)">
+    <configuration default="false" name="pythonTut28(Reading and Writing Files)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -166,12 +200,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut23(ListFunctions).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pythonTut24(MultiplicationTable)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pythonTut29(Object Oriented Programming)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,12 +217,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut24(MultiplicationTable).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pythonTut25(Dictionaries and Recursive functs)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pythonTut30(Object Oriented Problem)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -200,12 +234,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut25(Dictionaries and Recursive functs).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut30(Object Oriented Problem).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pythonTut26(DictionaryProblem)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pythonTut30(Inheritance)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -217,12 +251,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut26(DictionaryProblem).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut30(Inheritance).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pythonTut27 (Recursion)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="pythonTut32(MagicMethods)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -234,7 +268,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut27 (Recursion).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut32(MagicMethods).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -374,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pythonTut23(ListFunctions)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pythonTut24(MultiplicationTable)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pythonTut25(Dictionaries and Recursive functs)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pythonTut26(DictionaryProblem)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pythonTut27 (Recursion)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pythonTut28(Reading and Writing Files)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pythonTut29(Object Oriented Programming)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pythonTut30(Object Oriented Problem)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pythonTut30(Inheritance)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pythonTut32(MagicMethods)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pythonTut27 (Recursion)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pythonTut26(DictionaryProblem)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pythonTut25(Dictionaries and Recursive functs)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pythonTut24(MultiplicationTable)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pythonTut23(ListFunctions)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pythonTut32(MagicMethods)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pythonTut30(Inheritance)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pythonTut30(Object Oriented Problem)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pythonTut29(Object Oriented Programming)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pythonTut28(Reading and Writing Files)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,12 +453,12 @@
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09097421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23997134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30873924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -645,7 +679,7 @@
         <state relative-caret-position="493">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="41" />
           <folding>
-            <element signature="e#27#40#0" expanded="true" />
+            <element signature="e#27#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -680,7 +714,7 @@
         <state relative-caret-position="306">
           <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="49" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -709,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut27 (Recursion).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonTut26(DictionaryProblem).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -725,10 +751,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py">
+    <entry file="file://$PROJECT_DIR$/mydata.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydata2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut27 (Recursion).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut30(Object Oriented Problem).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut30(Inheritance).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding>
+            <element signature="e#996#1089#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut32(MagicMethods).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
