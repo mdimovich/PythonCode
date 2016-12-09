@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b2ac669-4d69-4a93-b40b-ff9190f09082" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut33(Static, Modules, Exceptions).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut34(Exceptions).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut35(Exceptions).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut36(Exception Question).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut37(Lambda Map Filter Reduce).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut38(Dynamic Function Problem).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut39(Lambdas).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonTut40(iterators).py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mydata2.txt" afterPath="$PROJECT_DIR$/mydata2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut18.py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut18.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut19.py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut19.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut20.py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut20.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut21.py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut21.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut22(BubbleSort).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut22(BubbleSort).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut23(ListFunctions).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut23(ListFunctions).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut24(MultiplicationTable).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut24(MultiplicationTable).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut25(Dictionaries and Recursive functs).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut25(Dictionaries and Recursive functs).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut26(DictionaryProblem).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut26(DictionaryProblem).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut27 (Recursion).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut27 (Recursion).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut28(Reading and Writing Files).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut29(Object Oriented Programming).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut30(Inheritance).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut30(Inheritance).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut31(Object Oriented Problem).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut31(Object Oriented Problem).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut32(MagicMethods).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut32(MagicMethods).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut33(Static, Modules, Exceptions).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut33(Static, Modules, Exceptions).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut34(Exceptions).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut34(Exceptions).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pythonTut35(Exceptions).py" afterPath="$PROJECT_DIR$/Old Tutorial Code/pythonTut35(Exceptions).py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,18 +42,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pythonTut29(Object Oriented Programming).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pythonTut32(MagicMethods).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut32(MagicMethods).py">
+        <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut32(MagicMethods).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -46,43 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pythonTut33(Static, Modules, Exceptions).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut33(Static, Modules, Exceptions).py">
+      <file leaf-file-name="pythonTut39(Lambdas).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonTut39(Lambdas).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="578">
+              <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pythonTut34(Exceptions).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut34(Exceptions).py">
+      <file leaf-file-name="pythonTut40(iterators).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonTut40(iterators).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-              <folding>
-                <marker date="1481236177190" expanded="true" signature="30:121" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pythonTut35(Exceptions).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonTut35(Exceptions).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pythonTut36(Exception Question).py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonTut36(Exception Question).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="-217">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,6 +125,10 @@
         <option value="$PROJECT_DIR$/pythonTut35(Exceptions).py" />
         <option value="$PROJECT_DIR$/mydata2.txt" />
         <option value="$PROJECT_DIR$/pythonTut36(Exception Question).py" />
+        <option value="$PROJECT_DIR$/pythonTut37(Lambda Map Filter Reduce).py" />
+        <option value="$PROJECT_DIR$/pythonTut38(Dynamic Function Problem).py" />
+        <option value="$PROJECT_DIR$/pythonTut39(Lambdas).py" />
+        <option value="$PROJECT_DIR$/pythonTut40(iterators).py" />
       </list>
     </option>
   </component>
@@ -223,75 +211,7 @@
       <recent name="D:\Code\PythonCode\Old Tutorial Code" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pythonTut36(Exception Question)">
-    <configuration default="false" name="pythonTut33(Static, Modules, Exceptions)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut33(Static, Modules, Exceptions).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pythonTut34(Exceptions)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut34(Exceptions).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pythonTut35(Exceptions)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut35(Exceptions).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.pythonTut40(iterators)">
     <configuration default="false" name="pythonTut36(Exception Question)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,6 +225,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut36(Exception Question).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pythonTut37(Lambda Map Filter Reduce)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut37(Lambda Map Filter Reduce).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pythonTut38(Dynamic Function Problem)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut38(Dynamic Function Problem).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pythonTut39(Lambdas)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut39(Lambdas).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pythonTut40(iterators)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTut40(iterators).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -444,19 +432,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pythonTut33(Static, Modules, Exceptions)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pythonTut34(Exceptions)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pythonTut35(Exceptions)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pythonTut36(Exception Question)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pythonTut36(Exception Question)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pythonTut37(Lambda Map Filter Reduce)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pythonTut38(Dynamic Function Problem)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pythonTut39(Lambdas)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pythonTut40(iterators)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pythonTut36(Exception Question)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pythonTut35(Exceptions)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pythonTut34(Exceptions)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pythonTut33(Static, Modules, Exceptions)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pythonTut40(iterators)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pythonTut39(Lambdas)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pythonTut38(Dynamic Function Problem)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pythonTut37(Lambda Map Filter Reduce)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pythonTut36(Exception Question)" />
       </list>
     </recent_temporary>
   </component>
@@ -495,9 +483,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24928367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -526,7 +514,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut19.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
@@ -534,7 +522,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut20.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
@@ -679,7 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut19.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
@@ -687,10 +675,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut18.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut20.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
@@ -710,7 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut21.py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="41" />
@@ -720,7 +709,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut22(BubbleSort).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut22(BubbleSort).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
@@ -745,7 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut23(ListFunctions).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut23(ListFunctions).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="49" />
@@ -755,7 +744,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut24(MultiplicationTable).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut24(MultiplicationTable).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -771,7 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut25(Dictionaries and Recursive functs).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut25(Dictionaries and Recursive functs).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
@@ -779,7 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut26(DictionaryProblem).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut26(DictionaryProblem).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -795,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut27 (Recursion).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut27 (Recursion).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
@@ -803,7 +792,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut28(Reading and Writing Files).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut28(Reading and Writing Files).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
@@ -811,7 +800,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut29(Object Oriented Programming).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut29(Object Oriented Programming).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
@@ -827,7 +816,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut30(Inheritance).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut30(Inheritance).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
@@ -837,23 +826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut32(MagicMethods).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut33(Static, Modules, Exceptions).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut34(Exceptions).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut34(Exceptions).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
@@ -863,7 +836,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTut35(Exceptions).py">
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut35(Exceptions).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
@@ -889,8 +862,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonTut36(Exception Question).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut38(Dynamic Function Problem).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut37(Lambda Map Filter Reduce).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut33(Static, Modules, Exceptions).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old Tutorial Code/pythonTut32(MagicMethods).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut39(Lambdas).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTut40(iterators).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
