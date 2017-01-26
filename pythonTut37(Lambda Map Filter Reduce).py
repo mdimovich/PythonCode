@@ -1,3 +1,4 @@
+# Lambda Functions
 def get_func_mult_by_num(num):
 
     def mult_by(value):
