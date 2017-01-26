@@ -1,6 +1,6 @@
 import sqlite3
 import sys
-
+# Database Practice
 def printDB():
     try:
         result = theCursor.execute("SELECT ID, FName, LName, Age, Address, Salary,              HireDate FROM Employees")
